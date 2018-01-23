@@ -1,0 +1,153 @@
+.top{
+	
+	background-image: url(../images/luis-del-rio-camacho-43059.jpg);
+	background-size:cover;
+	height:25em;
+}	
+h2{	margin-left:20px;
+	color:white;
+}
+hr{
+		display: inline-block;
+		width: 20%;
+}
+.container{
+	width:100%;
+}	
+.header{
+	border-bottom:1px white solid;
+	padding:20px;
+}
+h1,h4,h5{
+	margin:auto;
+	width:50%;
+	
+	text-align:center;
+	margin-bottom:5px;
+	color:white;
+	padding:0;
+
+}
+.description h5,h1{
+	word-spacing:30px;
+	width:50%;
+}
+
+.body23{
+	
+	overflow: auto;
+	padding: 0;
+	width: 100%;
+	height:14em;
+}
+h6{
+	margin-top: 20px;
+	margin:auto;
+	border:1px black solid;
+	text-align: center;
+	width:40%;
+	font-size: 1em;
+}
+p{
+	text-align: center;
+	width:40%;
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:20px;
+
+}
+.body2 h4{
+	border:1px white solid;
+	margin-top:10px;
+} 
+.body3 h4{
+	border:1px white solid;
+	margin-top:10px;
+
+} 
+.body1{
+	
+	padding-top: 20px;
+	height:10em;
+}
+.body2{
+	
+	width:50%;
+	background-color: brown;
+	float: left;
+	margin:0;
+	height:14em;
+
+
+}
+.body3{
+	
+	width:50%;
+	background-color: blue;
+	float:left;
+	margin:0;
+	height:14em;
+}
+.footer{
+	color:yellow;
+	clear:both;
+	background-color: black;
+	padding-left:40px;
+	height: 5em;
+}
+.links{
+	
+	width:30%;
+	position:absolute;
+	top:50px;
+	right:10px;
+
+}
+.links li{
+	display: inline;
+	padding:5px;
+
+}
+.links li a{
+	color:white;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover{
+	background-color:green;
+}
+
+
+
+
+
+h4+img{
+	width:50px;
+
+}
+.enter{
+	margin-top:30px;
+
+}
+.enter a{
+	text-decoration: none;
+	color:white;
+	background-color: grey;
+	border:1px white solid;
+}
+.enter a:hover{
+	background-color: blue;
+}
+.countries{
+	display: inline-block;
+	width:10em;
+}
+p+a{
+	background-color: grey;
+	margin-top:10px;
+	color:black;
+	border:2px black solid;
+}
+#copyright{
+	margin-top:20px;
+}
